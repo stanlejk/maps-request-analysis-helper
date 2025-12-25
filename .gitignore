@@ -34,3 +34,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# claude code
+.claude/
