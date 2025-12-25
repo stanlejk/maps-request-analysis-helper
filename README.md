@@ -1,4 +1,4 @@
-# API Log Analyzer
+# maps-request-analysis-helper
 
 A web tool for analyzing iOS console logs to extract and visualize API requests. Built to speed up debugging mobile app API traffic.
 

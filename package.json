@@ -1,12 +1,12 @@
 {
-  "name": "api-log-analyzer",
+  "name": "maps-request-analysis-helper",
   "version": "1.0.0",
   "description": "A web-based tool for analyzing iOS console logs to extract, group, and visualize API requests with TypeScript and cURL generation",
   "author": "Stanley Kim",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stanleyjkim/api-log-analyzer"
+    "url": "https://github.com/stanlejk/maps-request-analysis-helper"
   },
   "keywords": [
     "api",
